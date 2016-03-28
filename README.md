@@ -1,2 +1,6 @@
-# bitwig-studio-demo-PKGBUILD
-Backup
+# bitwig-studio-demo
+
+
+Digitial Audio Workstation: 
+
+http://www.bitwig.com/en/bitwig-studio.html
