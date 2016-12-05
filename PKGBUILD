@@ -1,5 +1,5 @@
 pkgname='bitwig-studio-demo'
-pkgver='1.3.8'
+pkgver='1.3.14'
 pkgrel='1'
 pkgdesc='Music production system for production, remixing and performance'
 arch=('x86_64')
@@ -10,7 +10,6 @@ license=('custom')
 # please tell us in the README
 depends=('jack' 'xdg-utils' 'qarma' 'xcb-util-wm' 'libbsd' 'alsa-lib' 'alsa-oss' 'ffmpeg')
 conflicts=('bitwig-studio-demo-rc')
-# rc version follows soon, gimme some seconds to load it up, thanks
 options=(!strip)
 source=("https://downloads.bitwig.com/stable/${pkgver}/bitwig-studio-${pkgver}.deb"
         'bitwig-studio.launcher')
